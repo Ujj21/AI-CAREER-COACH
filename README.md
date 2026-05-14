@@ -121,7 +121,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Ujjwal Payasi
-🚀 AI Career Coach ProjeCT
+🚀 AI Career Coach Project
 
  
 
