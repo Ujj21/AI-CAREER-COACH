@@ -80,6 +80,7 @@ AI-Career-Coach/
 
      👨‍💻 Author
          Ujjwal Payasi
+     
       B.Tech – Artificial Intelligence & Machine Learning  
-         Passionate about AI, Data Analytics, and Software Development
+      Passionate about AI, Data Analytics, and Software Development
 
